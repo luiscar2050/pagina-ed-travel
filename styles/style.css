@@ -144,6 +144,7 @@ main > .datos > #opciones{
  font-weight: 500;
 cursor: pointer;
 margin-right: 10px;
+box-shadow: 0 0 3px white;
 }
 
 
@@ -162,9 +163,10 @@ main > .datos > label{
   border-radius: 15px;
   padding: 5px;
   text-align: center;
-  border:1px solid #2cc2ff;
+  border:2px solid #2cc2ff;
   font-weight: 400;
   cursor: pointer;
+  box-shadow: 0 0 3px white;
 }
 
  
