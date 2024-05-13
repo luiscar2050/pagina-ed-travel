@@ -202,14 +202,14 @@ main > .ciudades > .card > h2{
   text-align: center;
   background-color: white;
   color: #005b8d;
-  font-weight: 300;
-  font-size: 33px;
+  font-weight: 296;
+  font-size: 30px;
   transition: box-shadow 0.3s ease;
   cursor: pointer;
 }
 
 h2:hover {
-box-shadow: 0 0 20px #005b8d; 
+box-shadow: 0 0 10px #005b8d; 
 }
 
 .ciudades > .card{
